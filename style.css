@@ -1,0 +1,19 @@
+ h1{
+<link rel="stylesheet" href="/style.css" />
+
+  font-family: verdana;
+  color:red;
+}
+
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background-color: #33ccff;
+}
