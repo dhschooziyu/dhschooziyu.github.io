@@ -15,5 +15,7 @@ p{
 }
 
 body {
-    background-color: #10ccff;
+      background-image: url("https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&h=350");
+    background-color: #cccccc;
+}
 }
